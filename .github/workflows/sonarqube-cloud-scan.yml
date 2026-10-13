@@ -1,4 +1,4 @@
-name: Sonar Scan
+name: "SonarQube Cloud Scan"
 on:
   workflow_call:
     inputs:
